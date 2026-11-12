@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import tempfile
 import os
 
-st.title("Agjka Formation Permeability Predictor & Multi-Well Viewer")
+st.title("Formation Permeability Predictor & Multi-Well Viewer")
 st.write("Upload one or multiple well log files (`.las`, `.txt`, `.csv`, or `.xlsx`) to predict continuous permeability and visualize tracks.")
 
 # Load saved model and scaler
